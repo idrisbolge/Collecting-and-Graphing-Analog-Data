@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multimetre_ve_Osiloskop", "Multimetre_ve_Osiloskop\Multimetre_ve_Osiloskop.csproj", "{8596223A-8CC6-4999-A76F-A585CA75F126}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "..\..\..\Desktop\Setup\Setup.vdproj", "{C816AE92-5900-4D89-8EF3-A1EE6D5B7D97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8596223A-8CC6-4999-A76F-A585CA75F126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8596223A-8CC6-4999-A76F-A585CA75F126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8596223A-8CC6-4999-A76F-A585CA75F126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8596223A-8CC6-4999-A76F-A585CA75F126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C816AE92-5900-4D89-8EF3-A1EE6D5B7D97}.Debug|Any CPU.ActiveCfg = Debug
+		{C816AE92-5900-4D89-8EF3-A1EE6D5B7D97}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC47AC7B-B504-45D2-8F2D-09D2FCF0AD94}
+	EndGlobalSection
+EndGlobal

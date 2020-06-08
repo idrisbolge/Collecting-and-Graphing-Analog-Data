@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "883918635043",
+    "firebase_url": "https://wificommunication-fe74c.firebaseio.com",
+    "project_id": "wificommunication-fe74c",
+    "storage_bucket": "wificommunication-fe74c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883918635043:android:41db609c8da7956a863196",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883918635043-9p1pdudmbjjfr1pue38ap5tgt595h3bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVSjG8MBO7AxRdqAcfcUsLW9a1gENThEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883918635043-9p1pdudmbjjfr1pue38ap5tgt595h3bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883918635043:android:fb10c49d2634bd6b863196",
+        "android_client_info": {
+          "package_name": "com.example.mando"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883918635043-9p1pdudmbjjfr1pue38ap5tgt595h3bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVSjG8MBO7AxRdqAcfcUsLW9a1gENThEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883918635043-9p1pdudmbjjfr1pue38ap5tgt595h3bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
